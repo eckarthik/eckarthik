@@ -9,4 +9,4 @@ I am Karthik, living in Bengaluru India and working as a Test Automation Enginee
 ## 🎯  Skills
  - Frontend Development with **HTML, JavaScript, CSS, Bootstrap, React**
  - Backend Development with **Django, NodeJS**
- - Test Automation with **Pytest, Python Selenium **
+ - Test Automation with **Pytest, Python Selenium**
