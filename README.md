@@ -2,6 +2,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@eckarthik-1ca0f1??style=flat-square&logo=twitter&labelColor=1ca0f1&logoColor=white)](https://twitter.com/eckarthik) [![Instagram Badge](https://img.shields.io/badge/-@eckarthik-ff7979??style=flat-square&logo=instagram&labelColor=ff7979&logoColor=white)](https://instagram.com/eckarthik) [![Linkedin Badge](https://img.shields.io/badge/-eckarthik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arghya-guha-41275b1a0/)](https://www.linkedin.com/in/karthik-e-c-0207476a/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eckarthik.eckarthik)
+
+
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/eckarthik39.png)
 
 
